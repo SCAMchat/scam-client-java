@@ -12,7 +12,7 @@ public class MainProgram {
     Connection connection;
     
     public static void main(String[] args){
-        MainProgram p= new MainProgram();
+        new MainProgram();
     }
     
     public MainProgram(){
